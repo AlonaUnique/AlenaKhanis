@@ -1,4 +1,4 @@
-<h1 align="center">Hello World! I'm Alona Khanis</h1>
+<h1 align="center">Hello World! I'm Alona Unique</h1>
 
 <p align="center">
   <img src="https://media1.tenor.com/m/kxZgL7zPf0EAAAAC/hello-world-seytonic.gif">
